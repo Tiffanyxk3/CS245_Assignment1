@@ -191,12 +191,6 @@ public class ActiveChecker
 			}
 			System.out.print("\n");
 		}
-
-
-		
-		
-
-		
 	}
 
 }
